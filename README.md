@@ -1,1 +1,1 @@
-# IT-Application---Chess
+# IT-Application---Chess Game
